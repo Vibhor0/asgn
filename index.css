@@ -1,0 +1,17 @@
+    #bl_nav {
+        background: rgb(0, 0, 0);
+        color: #FFF;
+        padding: 1em;
+        margin: -0.8em;
+        font-size: 0.7em
+    }
+    
+    #nav {
+        background: pink;
+        margin: 0.1em -0.8em;
+        padding: 0.5em;
+    }
+    
+    div {
+        font-family: 'Montserrat', sans-serif;
+    }
